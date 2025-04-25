@@ -20,6 +20,11 @@ Release/
 # Files from MCUXpresso that should not be uploaded
 .mcuxpressoide_packages_support/
 
+# Logs directories
+AzureRTOS_TAD_logs/
+FreeRTOS_TAD_logs/
+ZephyrRTOS_TAD_logs/
+
 # Operating system backup files
 Thumbs.db
 *.bak
