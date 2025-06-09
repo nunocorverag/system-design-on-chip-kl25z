@@ -1,7 +1,6 @@
 /*
  * main_viejito_teclado_matricial.c
  *
- *  Created on: 9 jun. 2025
  *      Author: alvar
  */
 
